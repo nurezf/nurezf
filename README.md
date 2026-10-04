@@ -1,125 +1,143 @@
 # 👋 Hi, I'm Nuredin Fentaw
 
-🚀 **Full-Stack Developer | Mobile App Developer | Software Engineering Student**  
-📍 Ethiopia  
-💡 Passionate about building scalable web & mobile applications and solving real-world problems with technology.
+### 🚀 Full-Stack Developer | Mobile App Developer | Software Engineering Student
+
+📍 Ethiopia 🇪🇹
+
+I build **modern web applications, mobile apps, and intelligent software solutions** that solve real-world problems. I enjoy turning ideas into reliable, scalable, and user-friendly products — from intuitive interfaces to secure backend systems.
+
+* 🔭 Building projects in **HealthTech, FinTech, and IoT**
+* 🌱 Exploring **AI integration, system design, cloud technologies, and application security**
+* 💻 Working with **React, Next.js, TypeScript, Flutter, Python, and Node.js**
+* 🤝 Open to internships, collaborations, and open-source contributions
+* 🎯 My goal: Build technology that makes a meaningful difference.
 
 ---
 
-## 🧑‍💻 About Me
+## 🛠️ Technologies & Tools
 
-I'm a motivated **software developer** with hands-on experience in **web, mobile, and backend development**.  
-I enjoy turning complex ideas into simple, efficient, and user-friendly solutions.
+### 🌐 Frontend Development
 
-- 🎓 Software Engineering student
-- 🔭 Currently working on **healthcare, payment, and IoT-based systems**
-- 🌱 Continuously learning **system design, secure authentication, and cloud deployment**
-- 💬 Ask me about **React, Next.js, Flutter, FastAPI, Prisma, Node.js**
-- 🧠 Strong interest in **FinTech, HealthTech, and Automation**
-- 🤝 Open to **internships, collaborations, and open-source contributions**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css" alt="Frontend technologies" />
+</p>
 
----
+### ⚙️ Backend Development
 
-## 🛠️ Tech Stack
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,prisma,postgres,mysql" alt="Backend technologies" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+### 📱 Mobile Development
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile development technologies" />
+</p>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🔧 Languages & Developer Tools
 
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,git,github,postman,docker,linux,vscode" alt="Programming languages and developer tools" />
+</p>
 
-
-### 🌐 Frontend
-- **React.js**
-- **Next.js (App Router)**
-- **TypeScript**
-- **Tailwind CSS**
-- **ShadCN UI**
-- **Chart.js / Recharts**
-
-### 📱 Mobile
-- **Flutter (Dart)**
-- REST API Integration
-- Animations & Dark Mode UI
-
-### 🧩 Backend
-- **Node.js (Express)**
-- **FastAPI (Python)**
-- **Prisma ORM**
-- **PostgreSQL / MySQL**
-- **JWT & Better-Auth**
-- **File Uploads (Multer)**
-
-### 💳 Payments & Integrations
-- **Chapa Payment Gateway**
-- Secure payment verification & callbacks
-- API integrations
-
-### ⚙️ Tools & Others
-- Git & GitHub
-- Postman
-- Docker (basic)
-- Linux / Windows
-- Wokwi & Proteus (Embedded Systems)
+**Additional experience:** REST APIs, JWT authentication, Better Auth, Chapa payment integration, Recharts, Shadcn UI, Wokwi, and Proteus.
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🏥 **Symptom AI – Healthcare Platform**
-- Patient & doctor dashboards
-- Secure authentication
-- Appointment & package system
-- Integrated **Chapa payment gateway**
-- Tech: Next.js, FastAPI, Prisma, PostgreSQL
+### 🏥 Hakim AI — Healthcare Platform
 
-### 🍽️ **Habesha Recipe App (Flutter)**
-- Food recipes with categories
-- Search & filter
-- Dark mode & shimmer loading
-- Local backend API
+An AI-assisted healthcare platform designed to help patients understand their symptoms and connect with healthcare professionals.
 
-### 🌦️ **Weather App (Flutter)**
-- City search
-- Hourly & 5-day forecast
-- Clean UI with animations
+* 🩺 AI-powered symptom analysis
+* 👨‍⚕️ Doctor profiles and appointment management
+* 📹 Video consultation capabilities
+* 💳 Payment integration and appointment workflows
 
-### 🏠 **IoT-Based Sound-Controlled Home Automation**
-- Real-time sound command detection
-- Embedded system simulation
-- Wokwi / Proteus based implementation
+**Tech Stack:** Next.js · FastAPI · Prisma · PostgreSQL
+
+### 💳 TapPay — QR-Based Taxi Payments
+
+A digital payment concept designed to simplify taxi payments through QR codes and digital credit.
+
+* 📲 QR-based taxi payment workflows
+* 💰 Passenger wallets and credit top-ups
+* 🚕 Driver withdrawals and settlement workflows
+* 🔐 Transaction tracking and payment integrity
+
+**Tech Stack:** TypeScript · Node.js · Express · Prisma · PostgreSQL · Flutter
+
+### 🍽️ Gebeta — Habesha Recipe App
+
+A mobile application focused on discovering and exploring food recipes.
+
+* 🔎 Recipe search and filtering
+* 🍲 Recipe categories and food discovery
+* 🌙 Dark-mode interface
+* 📱 Flutter-based mobile experience
+
+**Tech Stack:** Flutter · Dart · REST APIs
+
+### 🏠 IoT-Based Sound-Controlled Home Automation
+
+An embedded systems project exploring sound-command-based control of home appliances.
+
+* 🎙️ Sound-command detection concepts
+* 🔌 Home automation workflows
+* 🧪 Circuit simulation and prototyping
+
+**Tools:** Wokwi · Proteus
 
 ---
 
+## 📊 GitHub Overview
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nurezf&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurezf&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages" />
+</p>
 
-## 📫 Connect With Me
-
-- 💼 **LinkedIn:** *in/nuredin-fentaw-04b560365*
-- 📧 **Email:** *https://gmail.com/nuredin.fentaw.z*
-- 🌍 **Portfolio:** *https://nuredin-fentaw-p-dscj.vercel.app/*
-
----
-
-## ⚡ Fun Facts
-
-- 🔍 I love debugging complex issues
-- ☕ Code runs better with coffee
-- 🧠 Always curious about how things work under the hood
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nurezf&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 ---
 
-⭐ **Feel free to explore my repositories and give a star if you like my work!**
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, learning from others, and collaborating on meaningful projects.
+
+<p>
+  <a href="https://github.com/nurezf">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/nuredin-fentaw-04b560365/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nuredin.fentaw.z@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://nuredin-fentaw-p-dscj.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+## ⚡ A Little About Me
+
+* 🧩 I enjoy solving challenging technical problems.
+* 🛠️ I believe the best way to learn is by building real projects.
+* 🌍 I'm passionate about using software to address practical problems in my community.
+* 📚 Always learning, building, and improving.
+
+---
+
+<p align="center">
+  <i>"Build with purpose. Learn continuously. Make an impact."</i>
+</p>
+
+<p align="center">
+  ⭐ If you find something interesting in my repositories, feel free to star a project!
+</p>
